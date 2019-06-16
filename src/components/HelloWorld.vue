@@ -49,5 +49,4 @@
 </script>
 
 <style lang="sass">
-@import "~@/assets/something.css"
 </style>
